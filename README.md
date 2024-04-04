@@ -1,1 +1,1 @@
-# api-springboot
+# Sistema para gestão de funcionários e gerentes
